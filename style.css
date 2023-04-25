@@ -1,0 +1,33 @@
+img {
+	width: 30%;
+}
+
+.profileimage {
+	border-radius: 20px;
+}
+
+.podvucenNaslov {
+	text-decoration-line: underline;
+	text-decoration-color: salmon;
+}
+
+.drugaBoja {
+	color: salmon;
+}
+
+.navigacija {
+	background-color: #c6c3c3;
+	padding: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+footer {
+	background-color: #c6c3c3;
+	padding: 5px;
+	text-align: center;
+}
+
+.kontejner {
+	text-align: center;
+}
